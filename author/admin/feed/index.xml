@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>admin &#8211; Elementor Blocks Local Copy</title>
+	<title>admin &#8211; WP Master</title>
 	<atom:link href="https://www.ninjoe365.com/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ninjoe365.com</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sat, 22 Oct 2022 19:11:51 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 29 Oct 2022 22:08:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,11 +21,11 @@
 	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://www.ninjoe365.com/2022/10/22/hello-world/</link>
-					<comments>https://www.ninjoe365.com/2022/10/22/hello-world/#comments</comments>
+		<link>https://www.ninjoe365.com/2022/10/29/hello-world/</link>
+					<comments>https://www.ninjoe365.com/2022/10/29/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 22 Oct 2022 19:11:51 +0000</pubDate>
+		<pubDate>Sat, 29 Oct 2022 22:08:16 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://www.ninjoe365.com/?p=1</guid>
 
@@ -34,7 +34,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.ninjoe365.com/2022/10/22/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.ninjoe365.com/2022/10/29/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

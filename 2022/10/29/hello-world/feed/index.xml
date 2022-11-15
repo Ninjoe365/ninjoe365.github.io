@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for WP Master	</title>
-	<atom:link href="https://www.ninjoe365.com/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.ninjoe365.com</link>
+	Comments on: Hello world!	</title>
+	<atom:link href="https://www.ninjoe365.com/2022/10/29/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.ninjoe365.com/2022/10/29/hello-world/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 29 Oct 2022 22:08:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>https://www.ninjoe365.com/2022/10/29/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
