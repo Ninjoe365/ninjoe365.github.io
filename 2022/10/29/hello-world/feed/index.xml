@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="https://www.ninjoe365.com/2022/10/29/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.ninjoe365.com/2022/10/29/hello-world/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 29 Oct 2022 22:08:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>./../index.html#comment-1</link>
+		<link>https://www.ninjoe365.com/2022/10/29/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sat, 29 Oct 2022 22:08:16 +0000</pubDate>
-		<guid isPermaLink="false">./../../../../../index.html?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://www.ninjoe365.com/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
