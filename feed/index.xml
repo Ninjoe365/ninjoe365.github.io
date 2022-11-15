@@ -8,36 +8,24 @@
 	>
 
 <channel>
-	<title>WP Master</title>
+	<title>Portamemory</title>
 	<atom:link href="https://www.ninjoe365.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ninjoe365.com</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Sat, 29 Oct 2022 22:08:16 +0000</lastBuildDate>
+	<description>pam production photobooth rental  saving your precocious moment</description>
+	<lastBuildDate>Fri, 28 Oct 2022 04:03:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1</generator>
-	<item>
-		<title>Hello world!</title>
-		<link>https://www.ninjoe365.com/2022/10/29/hello-world/</link>
-					<comments>https://www.ninjoe365.com/2022/10/29/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 29 Oct 2022 22:08:16 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://www.ninjoe365.com/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ninjoe365.com/2022/10/29/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+<image>
+	<url>https://www.ninjoe365.com/wp-content/uploads/2022/10/favicon.png</url>
+	<title>Portamemory</title>
+	<link>https://www.ninjoe365.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
 </rss>
