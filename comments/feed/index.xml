@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Elementor Blocks Local Copy	</title>
-	<atom:link href="http://www.ninjoe365.com/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.ninjoe365.com</link>
+	<atom:link href="https://www.ninjoe365.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.ninjoe365.com</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 22 Oct 2022 19:11:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>http://www.ninjoe365.com/2022/10/22/hello-world/#comment-1</link>
+		<link>https://www.ninjoe365.com/2022/10/22/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sat, 22 Oct 2022 19:11:51 +0000</pubDate>
-		<guid isPermaLink="false">http://www.ninjoe365.com/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://www.ninjoe365.com/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
